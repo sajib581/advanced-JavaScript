@@ -1,4 +1,4 @@
-let a = -8
+let a = undefined
 if(a){
     console.log("True");
 }
